@@ -1,6 +1,4 @@
 # TD_Alghoritme_et_temps_relle
- 
-# Project Title
 
 A nice project with a nice description
 
