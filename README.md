@@ -1,6 +1,8 @@
 # TD_Alghoritme_et_temps_relle (lien video)  :  https://youtu.be/a8SRSnDOVm4
 
-A nice project with a nice description
+Web application to meet your frinds. Chat Box plus a card that let you fix a date in a restaurant and see in real time the distance beween you and your frinds before the meeting.
+
+The applcaiton it's in NodeJS.
 
 
 ## Lien video Youtube  :  https://youtu.be/a8SRSnDOVm4
